@@ -1,7 +1,7 @@
 # ComputerNetworks  - CMPE252
 
-1)the project can be compiled by using the "make" command
-2) run ./init to see the output
+The project can be compiled by using the "make" command.
+Run ./init to see the output
 
 These functions were called in main()
 
